@@ -1,0 +1,13 @@
+[Bb]in/
+[Oo]bj/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+.vs/
